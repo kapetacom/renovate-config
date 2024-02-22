@@ -13,5 +13,6 @@
     "**/test/**",
     "**/tests/**",
     "**/__fixtures__/**"
-  ]
+  ],
+  "prConcurrentLimit": 5
 }
