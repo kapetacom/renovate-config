@@ -14,5 +14,6 @@
     "**/tests/**",
     "**/__fixtures__/**"
   ],
-  "prConcurrentLimit": 5
+  "prConcurrentLimit": 5,
+  "reviewers": ["wejendorp"]
 }
